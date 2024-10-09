@@ -1,0 +1,17 @@
+.character-card.human {
+  background-color: rgb(2, 8, 9);
+}
+
+.character-card.alien {
+  background-color: rgb(2, 69, 2);
+}
+
+/* Otras especies... */
+
+.modal {
+  display: flex;
+  /* agregar estilos para el modal */
+}
+
+
+
